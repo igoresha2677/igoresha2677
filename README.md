@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @igorkosov26
+- 👋 Hi, I’m @igoresha2677
 - 👀 I’m interested in make sites
 - 🌱 I’m currently learning html/css/js
 - 📫 How to reach me - no way
